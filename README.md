@@ -3,7 +3,7 @@
 
 Pasteis a decentralized hackathon platform aims to make the hackathon experience more transparent and inclusive by having better features such as prize distribution and team-building. 
 
-YouTube Demo Video: https://youtu.be/cWmKafiNodI   
+YouTube Demo Video: https://youtu.be/UsUZBURXovo  
 
 ## Our Team
 ![about](./images/about.png)
